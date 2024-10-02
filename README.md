@@ -6,4 +6,3 @@
 * Determine the winner on the basis of the rock, paper, scissors rules.
 * Rules: Rock beats Scissors, Scissors beat Paper, Paper beat Rock, if same choice that's tie.
 * If user want to play again, break the loop if they don't.
-* 
